@@ -18,5 +18,5 @@
    
 ### 👋 스터디 참여자
 - [HaejungAhn](https://github.com/HaejungAhn)
-- 
-- 
+- [Eunjin Kim](https://github.com/ejkim-dev)
+- [JungGeun Lee](https://github.com/camai)
